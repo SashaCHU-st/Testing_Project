@@ -10,6 +10,7 @@ Create 10 test cases for product (there are 5 mandatory test cases listed in thi
 
 Next 5 test cases are mandatory:
 
+
 1. Does all product categories have an icon (Tuotealueet)
 
 2. Does all product categories have an "landing page"
