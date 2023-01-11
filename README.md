@@ -3,9 +3,11 @@ Final group work for course testing/robotic tool
 
 
 Task given by teacher:
+
 Product to be tested: https://www.verkkokauppa.com/
 
 Web application is made in way that contents of page are loaded one after other. When you are doing test robot, you might need Sleep keyword for waiting content to be loaded. 
+
 Create 10 test cases for product (there are 5 mandatory test cases listed in this document). Group need to design and implement test cases with Robot Framework. Check how to do good test cases from lecture materials.
 
 Next 5 test cases are mandatory:
