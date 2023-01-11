@@ -15,7 +15,7 @@ Next 5 test cases are mandatory:
 
 2. Does all product categories have an "landing page"
 
-3.Test search feature from main page (search keyword is: ps5)
+3. Test search feature from main page (search keyword is: ps5)
 
 -robot takes element screenshot from first product
 
@@ -23,7 +23,7 @@ Next 5 test cases are mandatory:
 
 -robot checks that there is something in product page what matches to keyword what was used in search
 
-4.Robot takes element screenshot from product page and compares it to picture taken in step 3. Is there differences?
+4. Robot takes element screenshot from product page and compares it to picture taken in step 3. Is there differences?
 
 5. Can you found topics "Esittely" and "Lisätiedot" from product page.
 
