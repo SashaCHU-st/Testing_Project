@@ -10,17 +10,20 @@ Create 10 test cases for product (there are 5 mandatory test cases listed in thi
 
 Next 5 test cases are mandatory:
 
-Does all product categories have an icon (Tuotealueet)
+1. Does all product categories have an icon (Tuotealueet)
 
-Does all product categories have an "landing page"
+2. Does all product categories have an "landing page"
 
-Test search feature from main page (search keyword is: ps5)
-robot takes element screenshot from first product
-robot drills down to product page
-robot checks that there is something in product page what matches to keyword what was used in search
+3.Test search feature from main page (search keyword is: ps5)
 
-Robot takes element screenshot from product page and compares it to picture taken in step 3. Is there differences?
+-robot takes element screenshot from first product
 
-Can you found topics "Esittely" and "Lisätiedot" from product page.
+-robot drills down to product page
+
+-robot checks that there is something in product page what matches to keyword what was used in search
+
+4.Robot takes element screenshot from product page and compares it to picture taken in step 3. Is there differences?
+
+5. Can you found topics "Esittely" and "Lisätiedot" from product page.
 
 +Bug report
