@@ -30,3 +30,5 @@ Next 5 test cases are mandatory:
 5. Can you found topics "Esittely" and "Lisätiedot" from product page.
 
 +Bug report
+
+Some tests are failing due to changes, which has been done on web site after project.
