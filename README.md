@@ -31,4 +31,4 @@ Next 5 test cases are mandatory:
 
 +Bug report
 
-Some tests are failing due to changes, which has been done on web site after project.
+Some tests are might be failing due to changes, which has been done on web site after project implementation.
